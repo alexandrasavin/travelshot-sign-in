@@ -1,0 +1,95 @@
+
+/* HTML Items */ 
+
+body {
+    background-color: #79a3b1;
+    color: #ffffff;
+    line-height: 2rem;
+    font-family: 'Quicksand', sans-serif;
+}
+
+h1, h2 {
+    font-family: 'Alice', serif;
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+p {
+    margin-left: 20%;
+    margin-bottom: 10%;
+}
+
+/* BOX Section */
+
+.register-box {
+    margin: 10% 20%;
+    background-color: #131313;
+    border-radius: 10%;
+}
+
+/* IMAGE Section */
+
+.image-section {
+    background-image: url("https://i.pinimg.com/564x/c2/4e/ef/c24eef85507b101d8e00ac1b3e6ce123.jpg");
+    background-color: #ffffff;
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5%; 
+}
+
+.logo-1 {
+    font-size: 1.9rem;
+    margin-top: 4%;
+}
+
+.logo-text {
+    margin-top: 60%;
+    margin-left: 6%;
+}
+
+.contact-icons {
+    margin-top: 45%;
+    margin-left: 40%;
+}
+
+.fab {
+    margin: 2%;
+}
+
+
+/* FORMAT Section */
+
+
+.format-section {
+    padding: 10%;
+}
+
+.logo-2 {
+    margin-left: 15%;
+    margin-bottom: 2%;
+}
+
+.register-icons {
+    margin: 15% 30% 4%;
+}
+
+.fab2 {
+    margin: 3%;
+    color: #79a3b1;
+}
+
+.pw {
+    margin-left: 45%;
+}
+
+.btn {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+
+
+
+
